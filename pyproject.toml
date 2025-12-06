@@ -1,15 +1,15 @@
 [project]
-name = "y2cl_worksheet"
+name = "Master Thesis, Imperial College London"
 version = "0.1.0"
-description = "Imperial Year 2 Physics Computing Lab."
+description = "Master Thesis, Imperial College London"
 readme = "README.md"
 requires-python = ">=3.9"
 license = {file = "LICENSE.txt"}
 authors = [
-  {name = "Alexander Richards", email = "a.richards@imperial.ac.uk"}
+  {name = "Swapnil Kumar", email = "swapnil.kumar22@alumni.imperial.ac.uk"}
 ]
 maintainers = [
-  {name = "Alexander Richards", email = "a.richards@imperial.ac.uk"}
+  {name = "Swapnil Kumar", email = "swapnil.kumar22@alumni.imperial.ac.uk"}
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -25,3 +25,4 @@ dependencies = [
 
 [tool.setuptools]
 packages = ["src"]
+
